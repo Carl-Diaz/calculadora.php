@@ -81,3 +81,11 @@ Seleccione la operación básica:
 
 ---
 
+## Autor
+
+Carlos Diaz  
+[GitHub: @Carl-Diaz](https://github.com/Carl-Diaz)
+
+Proyecto desarrollado como práctica de programación en PHP desde consola.
+
+
