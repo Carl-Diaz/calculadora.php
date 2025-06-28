@@ -22,7 +22,7 @@ Funciones científicas:
 ## Estructura del proyecto
 
 ```
-tu_proyecto/
+INCLUDES/
 |
 ├── index.php                 # Programa principal (menú)
 └── functions/
@@ -81,15 +81,3 @@ Seleccione la operación básica:
 
 ---
 
-## Requisitos
-
-- PHP 7.0 o superior
-- Terminal o consola (CLI)
-
----
-
-## Futuras mejoras
-
-- Agregar potencias, tangente, logaritmo.
-- Soporte para historial de operaciones.
-- Guardar resultados en archivo de texto.
